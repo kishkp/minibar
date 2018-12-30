@@ -1,0 +1,5 @@
+classes= 6
+train  = minibar/train.txt
+valid  = minibar/test.txt
+names = minibar/minibar.names
+backup = backup/
